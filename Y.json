@@ -294,17 +294,6 @@
             }
         },
         {
-            "key": "影探4K",
-            "name": "影探🎥4K",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/影探4K.js"
-        },
-        {
             "key": "hipy_js_人人影视",
             "name": "人人♓️影视",
             "type": 3,
@@ -472,6 +461,16 @@
                 "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
                 "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
             }
+        },
+        {
+            "key": "奇趣影视",
+            "name": "奇趣🕉影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇趣影视.json"
         },
         {
             "key": "XBPQ-789ys",
