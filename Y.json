@@ -439,6 +439,16 @@
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
         {
+            "key": "甲子影院",
+            "name": "甲子⛎解析",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://sy.shayugames.com/api.php/app/"
+        },
+        {
             "key": "奈飞中文",
             "name": "奈飞🐥中文",
             "type": 3,
